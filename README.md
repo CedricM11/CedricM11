@@ -1,11 +1,12 @@
-# 👋 Hi, I'm Cédric
+![Banner](https://github.com/CedricM11/CedricM11/blob/main/assets/backgroung.jpg)
 
-![Banner](https://via.placeholder.com/1280x320.png?text=Your+Name+%7C+Future+Web+Developer)
+# 👋 Hi, I'm Cédric
 
 ### 💡 About Me
 Former **web designer**, now studying at [42](https://42.fr/) 🎓  
-Passionate about **web development**, I love turning ideas into **elegant and functional interfaces**.  
+**On a journey from design to full-stack development**.  
 
+<br>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
