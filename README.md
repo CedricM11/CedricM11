@@ -1,4 +1,4 @@
-![Banner](https://github.com/CedricM11/CedricM11/blob/main/assets/backgroung.jpg)
+<!-- ![Banner](https://github.com/CedricM11/CedricM11/blob/main/assets/backgroung.jpg) -->
 
 # 👋 Hi, I'm Cédric
 
